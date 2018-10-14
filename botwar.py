@@ -10,9 +10,9 @@ import time, random, sys, json, codecs, threading, glob, re, string, os, request
 _session = requests.session()
 botStart = time.time()
 settings = {
-    "line": "TOKEN SB",
-    "pb1": "TOKEN KICKER 1",
-    "pb2": "TOKEN KICKER 2",
+    "line": "ExE5gDLIHoiyfzrSSwV2.Kp+R+4W0bds9r3UKTwUiGG.ilNg8ITij59czLUxeuI23KuvAPVJV2pW69puvkwvrnI=",
+    "pb1": "ExY4G7x51GG7WcdKM7m9.DVFjp5zvLX5GePku/GXQMq.kSngECPqrEnh6V/F/Anzbya0Cec+OdH+EPCY6SWp5q4=",
+    "pb2": "EwWZntnKIRYdpUXzSvi6.fBem7DgDAEJpMQ3oNxcZbG.vlzuKExxCv+86Ew9RNXQK/0lrPEEy6Tsbwbk8kW5r2U=",
     "kunci": False,
     "kata": "prank",
     "blacklist": {}
@@ -37,8 +37,8 @@ settings = {
     "kata": "prank",
     "blacklist": {}
 }
-Drop_Xv = "u5818cb4404411c2e2e6e6937d172cca8" #ID_DROPING_BOTS
-Xv_WIN = "udfaf52176415b46cb445ae2757ec85f3" #ID_WINDOWS_XP
+Drop_Xv = "u90ffebff8c340434bd477ba4b56b8882" #ID_DROPING_BOTS
+Xv_WIN = "u61341ff5ef5f93844c9e52972f6042c7" #ID_WINDOWS_XP
 Xv_LAN = "u17a086ccff618e754588a1108335867f" #ID_SERVER_LAN
 Xv_Servic = "ub0842532a31b9d99856cf2590b17d33f" #ID_PROV_SERVICE
 Xv_DxD = "uc8dc5352066b6a344bde3c07b0fe04ea" #ID_SYSTEM_BOTS
